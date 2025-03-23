@@ -2,3 +2,4 @@ crewai
 openai
 langchain
 python-dotenv
+crewai[tools]
